@@ -13,10 +13,10 @@ A Telegram bot for groups with bot admin management
 
 3. Running the bot:
     - on the server:
-        nohup python3 main.py &
+        **nohup python3 main.py &**
 
     - in the cPanel host terminal:
-        python3 main.py
+        **python3 main.py**
 
 
 ## Configuration
