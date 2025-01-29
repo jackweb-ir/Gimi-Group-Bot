@@ -9,9 +9,9 @@ A Telegram bot for groups with bot admin management
 
 ## Installation
 1. Clone the repository:
-    Enter your Telegram bot information, admin ID, and mysql database information in the config.py file.
+    - Enter your Telegram bot information, admin ID, and mysql database information in the config.py file.
 
-2. Running the bot:
+3. Running the bot:
     - on the server:
         nohup python3 main.py &
 
